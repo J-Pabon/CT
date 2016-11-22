@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0B7C91EB-8A4E-4670-B582-FD2016895029}|Default">
+  <MonoDevelop.Ide.ItemProperties.CT.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/MainPage.cs">
+    <Files>
+      <File FileName="Pages/MainPage.cs" Line="48" Column="7" />
+      <File FileName="Pages/UpdateCase.cs" Line="70" Column="111" />
+      <File FileName="Pages/NewCase.cs" Line="96" Column="2" />
+      <File FileName="ViewModels/LoginViewModel.cs" Line="36" Column="3" />
+      <File FileName="ViewModels/MainPageViewModel.cs" Line="63" Column="17" />
+      <File FileName="Pages/Login.cs" Line="45" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CT.Droid PreferredExecutionTarget="Android.TA44907DTD" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
